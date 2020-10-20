@@ -99,6 +99,7 @@ int main()
 			break;
 		default:
 			cout<<"Wrong choice entered "<<endl;
+			cout<<"Enter the number once again "<<endl;
 	}
 	}
 	while(choice!=0);
